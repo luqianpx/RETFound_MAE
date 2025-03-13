@@ -44,9 +44,3 @@ A comprehensive framework for self-supervised learning and medical image analysi
 | **`AA03_01_*.py`** | Training completeness checker |
 | **`AA01_01_preprocess_dataset.py`** | Retinal image organizer (train/val/test split) |
 
-
-### Installation
-```bash
-conda create -n vitmae python=3.9
-conda activate vitmae
-pip install torch torchvision timm pandas scikit-learn opencv-python
